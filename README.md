@@ -3,6 +3,7 @@
 - Support multi account
 - Auto claim
 - Register JetTON [here](https://t.me/jettons_earn_bot?start=210022)
+- Use VPN to open BOT
 
 ## Installation
 
